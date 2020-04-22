@@ -15,11 +15,14 @@ $ python manage.py migrate
    ```
  # Deployment
  
+This project assumes you have an Docker installed in system.
+### Commands to :
+  
 ## Run Development Server:-
 `$ docker-compose up -d`
  
  ## To Stop the server:-
- `$ docker-compose down`
+ `$ docker-compose down`  
  
- This project assumes you have an Docker installed in system.
+
 
