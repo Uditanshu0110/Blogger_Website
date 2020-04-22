@@ -13,13 +13,13 @@ Also Used Docker compose to Dockerize Django App.
 $ python manage.py check
 $ python manage.py migrate 
    ```
-
+ # Deployment
+ 
 ## Run Development Server:-
 `$ docker-compose up -d`
  
  ## To Stop the server:-
  `$ docker-compose down`
  
- # Deployment
  This project assumes you have an Docker installed in system.
 
