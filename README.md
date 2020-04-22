@@ -9,7 +9,7 @@ Also Used Docker compose to Dockerize Django App.
  
 ## Perform database migration:
 
-`$ python manage.py check`
-`$ python manage.py migrate`
+```$ python manage.py check
+$ python manage.py migrate```
 
 ## Run Development Server:-
