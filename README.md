@@ -7,7 +7,7 @@ Also Used Docker compose to Dockerize Django App.
 ## Install Django:-
 `$ pip install Django`
  
-## Perform database migration:-
+## Perform Database Migration:-
 
 ```
 $ python manage.py check
@@ -16,12 +16,12 @@ $ python manage.py migrate
  # Deployment
  
 This project assumes you have an Docker installed in system.
-### Commands to :
+### Commands To :
   
 ## Run Development Server:-
 `$ docker-compose up -d`
  
- ## To Stop the server:-
+ ## To Stop The Server:-
  `$ docker-compose down`  
  
 
