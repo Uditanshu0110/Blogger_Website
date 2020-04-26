@@ -6,7 +6,7 @@ Also Used Docker compose to Dockerize Django App.
 # Introduction:
 Django is an free and open source web application framework written in Python. A framework is nothing more than a collection of modules that make development easier. They are grouped together, and allow you to create applications or websites from an existing source, instead of from scratch.
 
-## Project Introduction:
+# Project Introduction:
 In this project, I have developed a website using the Django framework in Python. After developing I have Dockerized the application.I have used Dockerfile, requirement.txt(all the requirement that we need is defined here), and docker-compose file in which I have defined all the environment variables and define the port number. after that, I have used a docker-compose up command to build the image and for running the container.
 
 
